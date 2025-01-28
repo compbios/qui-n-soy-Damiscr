@@ -27,7 +27,7 @@ Desde 2014, soy docente en la Universidad de Nariño, adscrita al Departamento d
 - **Neurociencia del lenguaje**  
 - Comprensión lectora y procesamiento lingüístico  
 - Desarrollo de herramientas pedagógicas innovadoras  
-- Investigación sociolingüística aplicada
+- Investigación Psico-sociolingüística aplicada
 
   
 ## 🤝 Sobre mí 
