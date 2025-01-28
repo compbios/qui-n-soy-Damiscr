@@ -3,7 +3,7 @@
 
 # 🌟**Perfil**
 
-Me considero una profesional apasionada por los ***factores sociolingüísticos*** que afectan la comprensión lectora en jóvenes adultos. Mis intereses profesionales se centran en la neurociencia del lenguaje, específicamente en la identificación de patrones diferenciales de procesamiento lingüístico que expliquen las diferencias en el desempeño lector.
+Me considero una profesional apasionada por explorar los ***factores sociolingüísticos*** que afectan la comprensión lectora en jóvenes adultos. Mis intereses profesionales se centran en la neurociencia del lenguaje, específicamente en la identificación de patrones diferenciales de procesamiento lingüístico que expliquen las diferencias en el desempeño lector.
 
 
 ## 🎓 **Formación Académica**
