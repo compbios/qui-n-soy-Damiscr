@@ -11,7 +11,6 @@ Me considero una profesional apasionada por explorar los ***factores sociolingü
  
 | **Titulación**                                                    | **Institución**                  | **Año**  |
 |-------------------------------------------------------------------|----------------------------------|----------|
-| Licenciada en Humanidades con énfasis en Lengua Castellana e Inglés | Universidad de Nariño            | 2013     |
 | Magíster en Lingüística Aplicada a la Enseñanza del Español como Lengua Extranjera | Pontificia Universidad Javeriana | 2017     |
 | Estudiante de Doctorado en Neurociencias                            | Pontificia Universidad Javeriana | Actual   | 
 
@@ -31,6 +30,8 @@ Desde 2014, soy docente en la Universidad de Nariño, adscrita al Departamento d
 
   
 ## 🤝 Sobre mí 
+
+Me gusta caminar, ver películas y escuchar música. Disfruto asistir a teatros y eventos culturales, incluyendo espectáculos de stand-up comedy y otras expresiones artísticas en vivo.
 
 Es un placer compartir este espacio con ustedes, aprender juntos y explorar nuevas herramientas que enriquezcan nuestro trabajo. 
 ¡***Un gusto formar parte de esta comunidad***!😊
